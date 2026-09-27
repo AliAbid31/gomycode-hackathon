@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Blue Bottle Coffee",
+    "website": "https://bluebottlecoffee.com",
+    "social_profiles": {
+      "instagram": "@bluebottle",
+      "twitter": "@bluebottleroast",
+      "tiktok": "@bluebottlecoffee"
+    },
+    "follower_counts": {
+      "instagram": 650000,
+      "twitter": 85000,
+      "tiktok": 45000
+    },
+    "posting_frequency": "5-7 times per week",
+    "content_themes": [
+      "Minimalist aesthetics",
+      "Café architecture and design",
+      "Pour-over techniques",
+      "Seasonal drink launches"
+    ],
+    "strengths": [
+      "Extremely strong and consistent visual identity (minimalism)",
+      "High brand recognition in urban centers",
+      "Excellent educational content on brewing"
+    ],
+    "weaknesses": [
+      "Can appear too corporate following Nestle acquisition",
+      "Less focus on the origin/farmers compared to the aesthetic",
+      "Sometimes perceived as sterile or unapproachable"
+    ],
+    "engagement_rates": "1.5% - 2.0% on Instagram",
+    "notable_campaigns": [
+      "Nola Carton Launch (RTD expansion)",
+      "Exceedingly Rare microlot releases"
+    ]
+  },
+  {
+    "name": "Stumptown Coffee Roasters",
+    "website": "https://www.stumptowncoffee.com",
+    "social_profiles": {
+      "instagram": "@stumptowncoffee",
+      "twitter": "@stumptowncoffee",
+      "tiktok": "@stumptown"
+    },
+    "follower_counts": {
+      "instagram": 350000,
+      "twitter": 65000,
+      "tiktok": 12000
+    },
+    "posting_frequency": "4-5 times per week",
+    "content_themes": [
+      "Rock 'n' roll/rebel cafe culture",
+      "Direct trade relationships",
+      "Cold brew lifestyle",
+      "Merchandise and collaborations"
+    ],
+    "strengths": [
+      "Authentic, gritty, and cool brand voice",
+      "Pioneers of the cold brew market",
+      "Strong storytelling around producer relationships"
+    ],
+    "weaknesses": [
+      "Has lost some 'indie' appeal over time",
+      "Visual identity can sometimes feel dated compared to newer ultra-minimalist brands",
+      "Lower engagement on newer platforms like TikTok"
+    ],
+    "engagement_rates": "1.2% - 1.8% on Instagram",
+    "notable_campaigns": [
+      "Cold Brew Stubby Bottle promotions",
+      "Annual Winter Cheer blend campaigns"
+    ]
+  },
+  {
+    "name": "Counter Culture Coffee",
+    "website": "https://counterculturecoffee.com",
+    "social_profiles": {
+      "instagram": "@counterculturecoffee",
+      "twitter": "@counter_culture",
+      "tiktok": "@counterculture"
+    },
+    "follower_counts": {
+      "instagram": 180000,
+      "twitter": 45000,
+      "tiktok": 5000
+    },
+    "posting_frequency": "3-4 times per week",
+    "content_themes": [
+      "Sustainability and climate action",
+      "Coffee education and training",
+      "Detailed farm and producer profiles",
+      "Wholesale partner highlights"
+    ],
+    "strengths": [
+      "Industry leader in sustainability and transparency reporting",
+      "Highly respected B2B education (Training Centers)",
+      "Unquestionable credibility among coffee professionals"
+    ],
+    "weaknesses": [
+      "More B2B focused, less lifestyle appeal for the average consumer",
+      "Content can be too technical or dense for casual drinkers",
+      "Smaller overall social footprint"
+    ],
+    "engagement_rates": "2.0% - 2.5% on Instagram (highly engaged niche audience)",
+    "notable_campaigns": [
+      "Annual Transparency Report releases",
+      "Anytime/Anywhere blend educational series"
+    ]
+  }
+]

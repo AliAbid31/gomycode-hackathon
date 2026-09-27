@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Behind the Beans",
+    "description": "Educational content detailing the sourcing, farming, and roasting processes, emphasizing transparency and quality.",
+    "content_ratio": "25%",
+    "example_topics": [
+      "Meet the farmers of Finca El Injerto",
+      "How our zero-emissions roaster works",
+      "The journey of a coffee bean from plant to cup",
+      "What 'Direct Trade' really means for our partners",
+      "Understanding different processing methods (Washed vs. Natural)"
+    ],
+    "content_types": ["Documentary-style reels", "Carousel infographics", "Long-form blog posts"],
+    "platforms": ["Instagram", "YouTube", "Blog"],
+    "hashtags": ["#SeedToCup", "#DirectTradeCoffee", "#CoffeeRoasting", "#ZenithTransparency"],
+    "tone_notes": "Educational, respectful, transparent, and detailed."
+  },
+  {
+    "name": "Coffee Culture & Lifestyle",
+    "description": "Inspiring lifestyle content focusing on recipes, daily rituals, aesthetics, and the joy of drinking coffee.",
+    "content_ratio": "30%",
+    "example_topics": [
+      "The perfect morning pour-over ritual",
+      "Iced oat milk latte recipe for summer",
+      "Styling your home coffee bar",
+      "Pairing pastries with our Dawn Patrol blend",
+      "ASMR morning coffee brewing"
+    ],
+    "content_types": ["ASMR videos", "Aesthetic photos", "Quick recipe reels", "User-generated content"],
+    "platforms": ["Instagram", "TikTok", "Pinterest"],
+    "hashtags": ["#CoffeeRitual", "#ZenithMoments", "#HomeBarista", "#CoffeeAesthetics"],
+    "tone_notes": "Inspirational, calming, aesthetic, and approachable."
+  },
+  {
+    "name": "Sustainability Stories",
+    "description": "Highlighting eco-friendly practices, environmental impact, and the brand's commitment to the planet.",
+    "content_ratio": "15%",
+    "example_topics": [
+      "Why we chose fully compostable packaging",
+      "Our carbon footprint report for 2024",
+      "Upcycling coffee grounds at home",
+      "Water conservation in coffee farming",
+      "Partnering with local environmental NGOs"
+    ],
+    "content_types": ["Infographics", "Behind-the-scenes videos", "Impact reports"],
+    "platforms": ["Instagram", "LinkedIn", "Twitter"],
+    "hashtags": ["#SustainableCoffee", "#EcoFriendlyBrew", "#ClimateAction", "#ZenithImpact"],
+    "tone_notes": "Earnest, factual, progressive, and hopeful."
+  },
+  {
+    "name": "Community & People",
+    "description": "Focusing on the people who make up the Zenith community, from loyal customers and baristas to cafe partners.",
+    "content_ratio": "20%",
+    "example_topics": [
+      "Barista spotlight: How Sarah dials in her espresso",
+      "Customer stories: Your favorite camping trips with Zenith",
+      "Highlighting a local cafe partner",
+      "Our team's favorite coffee orders",
+      "Q&A session with our Founder Elena"
+    ],
+    "content_types": ["Interviews", "Photo portraits", "Live streams", "Community polls"],
+    "platforms": ["Instagram", "TikTok", "Facebook"],
+    "hashtags": ["#ZenithCommunity", "#CoffeePeople", "#BaristaLife", "#CafeCulture"],
+    "tone_notes": "Warm, engaging, conversational, and appreciative."
+  },
+  {
+    "name": "Product Spotlight",
+    "description": "Promotional content featuring new launches, limited edition microlots, and merchandise.",
+    "content_ratio": "10%",
+    "example_topics": [
+      "Announcing the Holiday Reserve Blend",
+      "Restock alert: Dawn Patrol is back",
+      "New ceramic mug collaboration launch",
+      "Holiday gift guide for the coffee lover",
+      "Subscription box unboxing"
+    ],
+    "content_types": ["High-quality product photography", "Unboxing videos", "Shoppable posts"],
+    "platforms": ["Instagram", "TikTok", "Email Newsletter"],
+    "hashtags": ["#ZenithReleases", "#SpecialtyCoffee", "#CoffeeSubscription", "#NewArrivals"],
+    "tone_notes": "Exciting, premium, clear, and action-oriented (CTA-driven)."
+  }
+]

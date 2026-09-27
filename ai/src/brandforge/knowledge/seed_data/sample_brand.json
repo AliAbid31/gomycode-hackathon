@@ -1,0 +1,84 @@
+{
+  "name": "Zenith Coffee Co.",
+  "industry": "Premium Coffee & Lifestyle",
+  "description": "Zenith Coffee Co. is a specialty coffee brand dedicated to elevating the everyday coffee experience through sustainably sourced, meticulously roasted, and beautifully packaged beans.",
+  "website": "https://zenithcoffee.com",
+  "founding_year": 2019,
+  "headquarters": "Portland, Oregon",
+  "mission": "To elevate everyday moments through exceptional coffee experiences while empowering the farmers who make it possible.",
+  "vision": "Become the go-to premium coffee brand for conscious millennials and Gen-Z, defining the future of transparent and sustainable coffee culture.",
+  "values": [
+    "Sustainability",
+    "Quality",
+    "Community",
+    "Innovation",
+    "Transparency"
+  ],
+  "unique_selling_points": [
+    "Farm-to-cup traceability via QR codes on every bag",
+    "Zero-emissions roasting process",
+    "Direct trade partnerships paying 2x Fair Trade minimums",
+    "Compostable premium packaging",
+    "Exclusive microlot releases curated by world-champion roasters"
+  ],
+  "target_demographics": {
+    "age_range": "24-40",
+    "gender": "All",
+    "income_bracket": "Upper Middle to High ($75k+)",
+    "interests": ["Specialty Coffee", "Sustainability", "Aesthetics", "Outdoor Living", "Artisanal Foods", "Design"],
+    "locations": ["Urban Centers", "Tech Hubs", "West Coast US", "East Coast US (NYC, Boston)"]
+  },
+  "brand_voice": {
+    "tone": "Knowledgeable but accessible, warm, passionate, and slightly poetic.",
+    "vocabulary": ["Craft", "Elevate", "Transparent", "Ritual", "Terroir", "Nuance", "Community"],
+    "what_we_are": ["Educational", "Premium", "Welcoming", "Conscious"],
+    "what_we_are_not": ["Snobby", "Pretentious", "Mass-market", "Boring"]
+  },
+  "visual_identity": {
+    "primary_colors": ["#1A1A1A (Onyx)", "#F2E8CF (Oat)", "#386641 (Forest)"],
+    "secondary_colors": ["#BC4749 (Berry)", "#E6A15C (Honey)"],
+    "typography": "Modern Serif for headers (e.g., Playfair Display), Clean Sans-Serif for body (e.g., Inter)",
+    "photography_style": "High contrast, natural lighting, focus on textures, lifestyle shots integrating nature and modern interiors."
+  },
+  "products": [
+    {
+      "name": "Dawn Patrol Blend",
+      "type": "Signature Light Roast",
+      "notes": ["Jasmine", "Meyer Lemon", "White Tea"],
+      "price": 22.00
+    },
+    {
+      "name": "Midnight Oil",
+      "type": "Espresso Roast",
+      "notes": ["Dark Chocolate", "Molasses", "Black Cherry"],
+      "price": 24.00
+    },
+    {
+      "name": "Guatemala Finca El Injerto",
+      "type": "Single Origin",
+      "notes": ["Plum", "Brown Sugar", "Toasted Pecan"],
+      "price": 28.00
+    }
+  ],
+  "social_profiles": {
+    "instagram": "@zenithcoffee",
+    "tiktok": "@zenithcoffeeco",
+    "twitter": "@zenithcoffee",
+    "youtube": "Zenith Coffee Culture"
+  },
+  "key_executives": [
+    {
+      "name": "Elena Rostova",
+      "role": "Founder & CEO"
+    },
+    {
+      "name": "Marcus Chen",
+      "role": "Head Roaster"
+    }
+  ],
+  "competitors": [
+    "Blue Bottle Coffee",
+    "Stumptown Coffee Roasters",
+    "Counter Culture Coffee"
+  ]
+}
